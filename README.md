@@ -1,4 +1,4 @@
-### Hi, I'm DeviEmx 👋
+### Hi, I'm DevEmx 👋
 
 <br />
 
