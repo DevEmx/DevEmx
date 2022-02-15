@@ -1,10 +1,12 @@
-### Hi, I'm DevEmx 👋
+### Hi, I'm DevEmx   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <br />
+   🤵 About Me:
 
-* 🔭 I’m currently working on  .  
-* 🌱 I’m currently learning Java.
-* 👯 I’m looking to collaborate on something cool.  
+* 🌜  I'm 16 and i always want to give the best service to my customers.
+* 🔭 I’m currently working on  some projects.  
+* 🌱 I’m currently learning Java & JavaScript.
+* 🕚 I working on the development world 3 years ago
 * 📫 How to reach me: † ᴇᴍᴀɴᴜᴇʟ †#5891  
 
 <a href="https://github.com/DevEmx">
