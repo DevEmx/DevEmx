@@ -6,8 +6,8 @@
 * 🌜  I'm 18 and i always want to give the best service to my customers.
 * 🔭 I’m currently working on  some projects.  
 * 🌱 I’m currently learning Java & JavaScript.
-* 🕚 I working on the development world 3 years ago
-* 📫 How to reach me: † ᴇᴍᴀɴᴜᴇʟ †#5891  
+* 🕚 I working on the development world 4 years ago
+* 📫 How to reach me: emanuel07__
 
 <a href="https://github.com/DevEmx">
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=DevEmx&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical />
