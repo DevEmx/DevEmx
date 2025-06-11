@@ -3,10 +3,10 @@
 <br />
    🤵 About Me:
 
-* 🌜  I'm 18 and i always want to give the best service to my customers.
+* 🌜  I'm 19 and i always want to give the best service to my customers.
 * 🔭 I’m currently working on  some projects.  
 * 🌱 I’m currently learning Java & JavaScript.
-* 🕚 I working on the development world 4 years ago
+* 🕚 I working on the development world 5 years ago
 * 📫 How to reach me: emanuel07__
 
 <a href="https://github.com/DevEmx">
